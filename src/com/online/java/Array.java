@@ -10,6 +10,7 @@ public class Array {
 		System.out.println(x.length);
 		System.out.println(y.length());
 		System.out.println(s[2].length());
+		System.out.println("Hello World");
 
 	}
 
