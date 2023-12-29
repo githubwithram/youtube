@@ -11,6 +11,7 @@ public class Array {
 		System.out.println(y.length());
 		System.out.println(s[2].length());
 		System.out.println("Hello World");
+		System.out.println("Hi kishore");
 
 	}
 
